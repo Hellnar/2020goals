@@ -30,7 +30,7 @@ Result: 1/4
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 2/1  |
 |  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 2/10  |
+|  3. Read 10 pages | 8/10  |
 |  4. Learn 3 new English words | 3/3  |
 
 Result: 3/4
