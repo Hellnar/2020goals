@@ -48,6 +48,8 @@ Result: 3/4
 |  5. Watch 1 Khan Academy video | 0/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
+Result: 3/6
+
 # Day 5 - 14.01.2020
 
 | Goal  | Status  |
