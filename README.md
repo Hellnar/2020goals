@@ -9,6 +9,12 @@
 
 Result: 3/4
 
+Total: 
+Coding - 3 hours
+Science related videos - 1
+Read pages - 0
+New Eng words - 5
+
 ------------
 
 # Day 2 - 11.01.2020
@@ -22,6 +28,12 @@ Result: 3/4
 
 Result: 1/4
 
+Total: 
+Coding - 3 hours
+Science related videos - 2
+Read pages - 4
+New Eng words - 8
+
 ------------
 
 # Day 3 - 12.01.2020
@@ -34,6 +46,12 @@ Result: 1/4
 |  4. Learn 3 new English words | 3/3  |
 
 Result: 3/4
+
+Total: 
+Coding - 5 hours
+Science related videos - 3
+Read pages - 12
+New Eng words - 11
 
 ------------
 
@@ -49,6 +67,14 @@ Result: 3/4
 |  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
 Result: 3/6
+
+Total: 
+Coding - 6 hours
+Science related videos - 7
+Read pages - 14
+New Eng words - 14
+Khan Academy Videos - 0
+FreeCodeCamp lessons - 0
 
 # Day 5 - 14.01.2020
 
