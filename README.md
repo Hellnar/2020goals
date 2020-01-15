@@ -102,10 +102,10 @@ FreeCodeCamp lessons - 0
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 0/1  |
+|  1. Code at least 1 hour | 1/1  |
 |  2. Watch 1 science video | 1/1  |
 |  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 4/3  |
 |  5. Watch 1 Khan Academy video | 0/1  |
-|  6. Pass 10+ FreeCodeCamp lessons | 12/10  |
+|  6. Pass 10+ FreeCodeCamp lessons | 29/10  |
 
