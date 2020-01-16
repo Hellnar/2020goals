@@ -104,8 +104,28 @@ FreeCodeCamp lessons - 0
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 1/1  |
 |  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 0/10  |
+|  3. Read 10 pages | 9/10  |
 |  4. Learn 3 new English words | 4/3  |
-|  5. Watch 1 Khan Academy video | 0/1  |
+|  5. Watch 1 Khan Academy video | 1/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 29/10  |
 
+Result: 5/6
+
+Total:
+Coding - 7 hours
+Science related videos - 12
+Read pages - 23
+New Eng words - 19
+Khan Academy Lessons - 1
+FreeCodeCamp lessons - 29
+
+# Day 7 - 16.01.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
+|  4. Learn 3 new English words | 0/3  |
+|  5. Watch 1 Khan Academy video | 0/1  |
+|  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
