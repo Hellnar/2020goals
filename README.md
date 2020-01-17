@@ -125,7 +125,17 @@ FreeCodeCamp lessons - 29
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 4/1  |
 |  2. Watch 1 science video | 2/1  |
-|  3. Read 10 pages | 5/10  |
+|  3. Read 10 pages | 17/10  |
 |  4. Learn 3 new English words | 5/3  |
-|  5. Watch 1 Khan Academy video | 0/1  |
+|  5. Watch 1 Khan Academy video | 1/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 10/10  |
+
+Result: 6/6
+
+Total:
+Coding - 11 hours
+Science related videos - 14
+Read pages - 40
+New Eng words - 24
+Khan Academy Lessons - 2
+FreeCodeCamp lessons - 39
