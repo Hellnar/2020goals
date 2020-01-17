@@ -146,10 +146,10 @@ FreeCodeCamp lessons - 39
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 1/1  |
 |  2. Watch 1 science video | 3/1  |
-|  3. Read 10 pages | 6/10  |
+|  3. Read 10 pages | 13/10  |
 |  4. Learn 3 new English words | 6/3  |
 |  5. Watch 1 Khan Academy video | 1/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 12/10  |
 |  7. Pass 1 task at Hackerrank or LeetCode | 1/1 |
-|  8. Start learning Django | 0/1 |
+|  8. Start learning Django | 1/1 |
  
