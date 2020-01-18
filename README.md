@@ -153,3 +153,14 @@ FreeCodeCamp lessons - 39
 |  7. Pass 1 task at Hackerrank or LeetCode | 1/1 |
 |  8. Start learning Django | 1/1 |
  
+Result: 8/8
+
+Total:
+Coding - 12 hours
+Science related videos - 17
+Read pages - 53
+New Eng words - 30
+Khan Academy Lessons - 4
+FreeCodeCamp lessons - 51
+Hackerrank/LeetCode tasks - 1
+Django videos - 1
