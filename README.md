@@ -170,8 +170,20 @@ Django videos - 1
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 0/1  |
-|  3. Read 10 pages | 0/10  |
-|  4. Learn 3 new English words | 0/3  |
+|  2. Watch 1 science video | 4/1  |
+|  3. Read 10 pages | 6/10  |
+|  4. Learn 3 new English words | 3/3  |
 |  5. Watch 1 Khan Academy video | 0/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
+
+Result: 2/8
+
+Total:
+Coding - 12 hours
+Science related videos - 21
+Read pages - 59
+New Eng words - 33
+Khan Academy Lessons - 4
+FreeCodeCamp lessons - 51
+Hackerrank/LeetCode tasks - 1
+Django videos - 1
