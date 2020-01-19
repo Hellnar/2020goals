@@ -187,3 +187,14 @@ Khan Academy Lessons - 4
 FreeCodeCamp lessons - 51
 Hackerrank/LeetCode tasks - 1
 Django videos - 1
+
+# Day 10 - 19.01.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 2/1  |
+|  2. Watch 1 science video | 2/1  |
+|  3. Read 10 pages | 35/10  |
+|  4. Learn 3 new English words | 0/3  |
+|  5. Watch 1 Khan Academy video | 0/1  |
+|  6. Made at least 1 FreeCodeCamp project | 1/1  |
