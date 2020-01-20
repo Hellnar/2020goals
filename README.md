@@ -29,10 +29,10 @@ Total:
 Result: 1/4
 
 Total: 
-Coding - 3 hours
-Science related videos - 2
-Read pages - 4
-New Eng words - 5
+- Coding - 3 hours
+- Science related videos - 2
+- Read pages - 4
+- New Eng words - 5
 
 ------------
 
@@ -48,10 +48,10 @@ New Eng words - 5
 Result: 3/4
 
 Total: 
-Coding - 5 hours
-Science related videos - 3
-Read pages - 12
-New Eng words - 8
+- Coding - 5 hours
+- Science related videos - 3
+- Read pages - 12
+- New Eng words - 8
 
 ------------
 
@@ -69,12 +69,12 @@ New Eng words - 8
 Result: 3/6
 
 Total: 
-Coding - 6 hours
-Science related videos - 7
-Read pages - 14
-New Eng words - 11
-Khan Academy Videos - 0
-FreeCodeCamp lessons - 0
+- Coding - 6 hours
+- Science related videos - 7
+- Read pages - 14
+- New Eng words - 11
+- Khan Academy Videos - 0
+- FreeCodeCamp lessons - 0
 
 # Day 5 - 14.01.2020
 
@@ -90,12 +90,12 @@ FreeCodeCamp lessons - 0
 Result: 3/6
 
 Total: 
-Coding - 6 hours
-Science related videos - 11
-Read pages - 14
-New Eng words - 15
-Khan Academy Lessons - 1
-FreeCodeCamp lessons - 0
+- Coding - 6 hours
+- Science related videos - 11
+- Read pages - 14
+- New Eng words - 15
+- Khan Academy Lessons - 1
+- FreeCodeCamp lessons - 0
 
 
 # Day 6 - 15.01.2020
@@ -112,12 +112,12 @@ FreeCodeCamp lessons - 0
 Result: 5/6
 
 Total:
-Coding - 7 hours
-Science related videos - 12
-Read pages - 23
-New Eng words - 19
-Khan Academy Lessons - 2
-FreeCodeCamp lessons - 29
+- Coding - 7 hours
+- Science related videos - 12
+- Read pages - 23
+- New Eng words - 19
+- Khan Academy Lessons - 2
+- FreeCodeCamp lessons - 29
 
 # Day 7 - 16.01.2020
 
@@ -133,12 +133,12 @@ FreeCodeCamp lessons - 29
 Result: 6/6
 
 Total:
-Coding - 11 hours
-Science related videos - 14
-Read pages - 40
-New Eng words - 24
-Khan Academy Lessons - 3
-FreeCodeCamp lessons - 39
+- Coding - 11 hours
+- Science related videos - 14
+- Read pages - 40
+- New Eng words - 24
+- Khan Academy Lessons - 3
+- FreeCodeCamp lessons - 39
 
 # Day 8 - 17.01.2020
 
@@ -156,14 +156,14 @@ FreeCodeCamp lessons - 39
 Result: 8/8
 
 Total:
-Coding - 12 hours
-Science related videos - 17
-Read pages - 53
-New Eng words - 30
-Khan Academy Lessons - 4
-FreeCodeCamp lessons - 51
-Hackerrank/LeetCode tasks - 1
-Django videos - 1
+- Coding - 12 hours
+- Science related videos - 17
+- Read pages - 53
+- New Eng words - 30
+- Khan Academy Lessons - 4
+- FreeCodeCamp lessons - 51
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
 
 # Day 9 - 18.01.2020
 
@@ -179,14 +179,14 @@ Django videos - 1
 Result: 2/8
 
 Total:
-Coding - 12 hours
-Science related videos - 21
-Read pages - 59
-New Eng words - 33
-Khan Academy Lessons - 4
-FreeCodeCamp lessons - 51
-Hackerrank/LeetCode tasks - 1
-Django videos - 1
+- Coding - 12 hours
+- Science related videos - 21
+- Read pages - 59
+- New Eng words - 33
+- Khan Academy Lessons - 4
+- FreeCodeCamp lessons - 51
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
 
 # Day 10 - 19.01.2020
 
@@ -202,12 +202,12 @@ Django videos - 1
 Result: 6/6
 
 Total:
-Coding - 14 hours
-Science related videos - 23
-Read pages - 94
-New Eng words - 36
-Khan Academy Lessons - 5
-FreeCodeCamp lessons - 51
-FreeCodeCamp projects - 1
-Hackerrank/LeetCode tasks - 1
-Django videos - 1
+- Coding - 14 hours
+- Science related videos - 23
+- Read pages - 94
+- New Eng words - 36
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 51
+- FreeCodeCamp projects - 1
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
