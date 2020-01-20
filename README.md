@@ -211,3 +211,14 @@ Total:
 - FreeCodeCamp projects - 1
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 1
+
+# Day 11 - 20.01.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/2  |
+|  2. Watch 1 science video | 3/3  |
+|  3. Read 10 pages | 8/10  |
+|  4. Learn 3 new English words | 3/3  |
+|  5. Watch 1 Khan Academy video | 1/1  |
+|  6. Made at least 1 FreeCodeCamp project | 0/2  |
