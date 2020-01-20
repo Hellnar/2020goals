@@ -195,6 +195,19 @@ Django videos - 1
 |  1. Code at least 1 hour | 2/1  |
 |  2. Watch 1 science video | 2/1  |
 |  3. Read 10 pages | 35/10  |
-|  4. Learn 3 new English words | 0/3  |
-|  5. Watch 1 Khan Academy video | 0/1  |
+|  4. Learn 3 new English words | 3/3  |
+|  5. Watch 1 Khan Academy video | 1/1  |
 |  6. Made at least 1 FreeCodeCamp project | 1/1  |
+
+Result: 6/6
+
+Total:
+Coding - 14 hours
+Science related videos - 23
+Read pages - 94
+New Eng words - 36
+Khan Academy Lessons - 5
+FreeCodeCamp lessons - 51
+FreeCodeCamp projects - 1
+Hackerrank/LeetCode tasks - 1
+Django videos - 1
