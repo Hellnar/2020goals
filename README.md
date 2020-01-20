@@ -10,10 +10,10 @@
 Result: 3/4
 
 Total: 
-Coding - 3 hours
-Science related videos - 1
-Read pages - 0
-New Eng words - 5
+- Coding - 3 hours
+- Science related videos - 1
+- Read pages - 0
+- New Eng words - 5
 
 ------------
 
