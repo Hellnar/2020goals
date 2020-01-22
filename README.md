@@ -242,7 +242,21 @@ Total:
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 4/1  |
 |  2. Watch 1 science video | 3/3  |
-|  3. Read 10 pages | 0/10  |
+|  3. Read 10 pages | 10/10  |
 |  4. Learn 3 new English words | 3/3  |
-|  5. Watch 1 Khan Academy video | 0/1  |
+|  5. Get 1 FreeCodeCamp Certificate | 1/1  |
 |  6. Made at least 1 FreeCodeCamp project | 4/1  |
+
+Result: 6/6
+
+Total:
+- Certificates - 1
+- Coding - 18 hours
+- Science related videos - 29
+- Read pages - 112
+- New Eng words - 42
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 51
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
