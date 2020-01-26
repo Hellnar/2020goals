@@ -345,7 +345,7 @@ Total:
 |  5. Watch 1 Khan Academy video | 0/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 1/6
+Result: 2/6
 
 Total:
 - Certificates - 1
