@@ -358,3 +358,29 @@ Total:
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 1
+
+# Day 17 - 26.01.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 3/3  |
+|  3. Read 10 pages | 6/10  |
+|  4. Learn 3 new English words | 0/3  |
+|  5. Watch 1 Khan Academy video | 0/1  |
+|  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
+
+Result: 2/6
+
+Total:
+- Certificates - 1
+- Coding - 22 hours
+- Science related videos - 43
+- Read pages - 163
+- New Eng words - 49
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 56
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
+
