@@ -369,6 +369,7 @@ Total:
 |  4. Learn 3 new English words | 0/3  |
 |  5. Watch 1 Khan Academy video | 0/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 0/10  |
+|  7. Push ups, 5 repeats | 85/75 |
 
 Result: 2/6
 
@@ -383,6 +384,7 @@ Total:
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 1
+- Push ups - 85 
 
 # Day 18 - 27.01.2020
 
@@ -391,9 +393,20 @@ Total:
 |  1. Code at least 1 hour | 0/1  |
 |  2. Watch 1 science video | 3/3  |
 |  3. Read 10 pages | 0/10  |
-|  4. Learn 3 new English words | 1/3  |
+|  4. Learn 3 new English words | 3/3  |
 |  5. Watch 1 Khan Academy video | 0/1  |
 |  6. Pass 10+ FreeCodeCamp lessons | 12/10  |
 
 Result: 2/6
 
+Total:
+- Certificates - 1
+- Coding - 22 hours
+- Science related videos - 46
+- Read pages - 163
+- New Eng words - 52
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 68
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
