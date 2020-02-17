@@ -513,11 +513,11 @@ Total:
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
 |  2. Watch 1 science video | 0/3  |
-|  3. Read 10 pages | 9/10  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 1/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -537,11 +537,11 @@ Total:
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
 |  2. Watch 1 science video | 0/3  |
-|  3. Read 10 pages | 9/10  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 1/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -559,13 +559,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 2/1  |
+|  1. Code at least 1 hour | 0/1  |
 |  2. Watch 1 science video | 0/1  |
-|  3. Read 10 pages | 15/10  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -584,12 +584,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -608,12 +608,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -632,12 +632,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -656,12 +656,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 3 new English words | 0/3  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -680,12 +680,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -704,12 +704,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -728,12 +728,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 |  1. Code at least 1 hour | 0/1  |
-|  2. Watch 1 science video | 1/1  |
-|  3. Read 10 pages | 4/10  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
 |  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 3/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -751,13 +751,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 2/1  |
-|  2. Watch 1 science video | 1/1  |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
 |  3. Read 10 pages | 0/10  |
-|  4. Learn 1 new English words | 1/1  |
-|  5. Pass 10+ FreeCodeCamp lessons | 10/10  |
+|  4. Learn 1 new English words | 0/1  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 4/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -775,13 +775,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 2/1  |
-|  2. Watch 1 science video | 1/1  |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
 |  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
-|  5. Pass 10+ FreeCodeCamp lessons | 1/10  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 2/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -799,13 +799,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 1/1  |
-|  2. Watch 1 science video | 1/1  |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
 |  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
-|  5. Pass 10+ FreeCodeCamp lessons | 3/10  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 2/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -823,13 +823,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 1/1  |
-|  2. Watch 1 science video | 1/1  |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
 |  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
-|  5. Pass 10+ FreeCodeCamp lessons | 3/10  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 2/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -847,13 +847,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 1/1  |
-|  2. Watch 1 science video | 1/1  |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
 |  3. Read 10 pages | 0/10  |
 |  4. Learn 1 new English words | 0/1  |
-|  5. Pass 10+ FreeCodeCamp lessons | 3/10  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
 
-Result: 2/5
+Result: 0/5
 
 Total:
 - Certificates - 1
@@ -866,3 +866,57 @@ Total:
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 1
+
+# Day 38 - 16.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Watch 1 science video | 0/1  |
+|  3. Read 10 pages | 0/10  |
+|  4. Learn 1 new English words | 0/1  |
+|  5. Pass 10+ FreeCodeCamp lessons | 0/10  |
+
+Result: 0/5
+
+Total:
+- Certificates - 1
+- Coding - 29 hours
+- Science related videos - 51
+- Read pages - 184
+- New Eng words - 52
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 79
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
+
+# Day 39 - 17.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/1  |
+|  2. Pass 10+ FreeCodeCamp lessons | 10/10 |
+|  3. Watch 1 Django video | 0/1 |
+|  3. Read 10 pages | 0/10  |
+|  4. Learn 1 new English words | 2/1  |
+|  2. Watch 1 science video | 1/1  |
+|  2. Push-ups training | 0/1  |
+|  2. Write 1 article for a website | 0/1  |
+|  2. Start template for ToDo platform | 0/1  |
+
+Result: 2/5
+
+Total:
+- Certificates - 1
+- Coding - 29 hours
+- Science related videos - 52
+- Read pages - 184
+- New Eng words - 54
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 89
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 1
+
+
