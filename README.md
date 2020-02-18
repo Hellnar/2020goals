@@ -918,5 +918,5 @@ Total:
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 2
-- Push ups - 5 sets 100 reps 
+- Push ups - 6 sets 100 reps 
 
