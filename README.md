@@ -931,7 +931,7 @@ Total:
 |  5. Learn 1 new English words | 0/1 |
 |  6. Made visualization for each learned Eng word | 0/1 |
 |  7. Watch 1 science video | 0/1 |
-|  8. Biceps training with dumbbells | 0 |
+|  8. Biceps training with dumbbells |  |
 |  9. Write 3 posts for Freelance | 0/3 |
 |  10. Write 1 article for a website | 0/1 |
 |  11. Write 1 short article for Yandex.zen | 0/1 |
