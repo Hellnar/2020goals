@@ -898,14 +898,14 @@ Total:
 |  1. Code at least 1 hour | 1/1  |
 |  2. Pass 10+ FreeCodeCamp lessons | 10/10 |
 |  3. Watch 1 Django video | 1/1 |
-|  3. Read 10 pages | 5/10  |
-|  4. Learn 1 new English words | 2/1  |
-|  2. Watch 1 science video | 1/1  |
-|  2. Push-ups training | 20/20/20/15/15/10  |
-|  2. Write 1 article for a website | 1/1  |
-|  2. Start template for ToDo platform | 0/1  |
+|  4. Read 10 pages | 5/10  |
+|  5. Learn 1 new English words | 2/1  |
+|  6. Watch 1 science video | 1/1  |
+|  7. Push-ups training | 20/20/20/15/15/10  |
+|  8. Write 1 article for a website | 1/1  |
+|  9. Start template for ToDo platform | Yes  |
 
-Result: 2/5
+Result: 8/9
 
 Total:
 - Certificates - 1
@@ -918,5 +918,5 @@ Total:
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 2
-
+- Push ups - 5 sets 100 reps 
 
