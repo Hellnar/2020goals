@@ -924,12 +924,12 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 0/1 |
+|  1. Code at least 1 hour | 1/1 |
 |  2. Pass 10+ FreeCodeCamp lessons | 0/10 |
 |  3. Watch 1 Django video | 0/1 |
 |  4. Read 10 pages | 0/10 |
-|  5. Learn 1 new English words | 0/1 |
-|  6. Made visualization for each learned Eng word | 0/1 |
+|  5. Learn 1 new English word | 1/1 |
+|  6. Made visualization for each learned Eng word | Yes |
 |  7. Watch 1 science video | 0/1 |
 |  8. Biceps training with dumbbells |  |
 |  9. Write 3 posts for Freelance | 0/3 |
