@@ -920,3 +920,35 @@ Total:
 - Django videos - 2
 - Push ups - 6 sets 100 reps 
 
+# Day 40 - 18.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Code at least 1 hour | 0/1 |
+|  2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+|  3. Watch 1 Django video | 0/1 |
+|  4. Read 10 pages | 0/10 |
+|  5. Learn 1 new English words | 0/1 |
+|  6. Made visualization for each learned Eng word | 0/1 |
+|  7. Watch 1 science video | 0/1 |
+|  8. Biceps training with dumbbells | 0 |
+|  9. Write 3 posts for Freelance | 0/3 |
+|  10. Write 1 article for a website | 0/1 |
+|  11. Write 1 short article for Yandex.zen | 0/1 |
+|  12. Edit template for ToDo platform |  |
+|  13. Start concept template for 'sources for devs' project |  |
+
+Result: 0/12
+
+Total:
+- Certificates - 1
+- Coding - 30 hours
+- Science related videos - 52
+- Read pages - 189
+- New Eng words - 54
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 89
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 2
+- Push ups - 6 sets 100 reps 
