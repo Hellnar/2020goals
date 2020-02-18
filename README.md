@@ -924,19 +924,19 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Code at least 1 hour | 1/1 |
-|  2. Pass 10+ FreeCodeCamp lessons | 0/10 |
-|  3. Watch 1 Django video | 0/1 |
-|  4. Read 10 pages | 0/10 |
-|  5. Learn 1 new English word | 1/1 |
-|  6. Made visualization for each learned Eng word | Yes |
-|  7. Watch 1 science video | 0/1 |
-|  8. Biceps training with dumbbells |  |
-|  9. Write 3 posts for Freelance | 0/3 |
-|  10. Write 1 article for a website | 0/1 |
-|  11. Write 1 short article for Yandex.zen | 0/1 |
-|  12. Edit template for ToDo platform |  |
-|  13. Start concept template for 'sources for devs' project |  |
+| 1. Code at least 1 hour | 1/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 3. Watch 1 Django video | 0/1 |
+| 4. Read 10 pages | 0/10 |
+| 5. Learn 1 new English word | 1/1 |
+| 6. Made visualization for each learned Eng word | Yes |
+| 7. Watch 1 science video | 1/1 |
+| 8. Biceps training with dumbbells |  |
+| 9. Write 3 posts for Freelance | 0/3 |
+| 10. Write 1 article for a website | 0/1 |
+| 11. Write 1 short article for Yandex.zen | 0/1 |
+| 12. Edit template for ToDo platform |  |
+| 13. Start concept template for 'sources for devs' project |  |
 
 Result: 0/12
 
