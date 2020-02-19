@@ -936,9 +936,9 @@ Total:
 | 10. Write 1 article for a website | 0/1 |
 | 11. Write 1 short article for Yandex.zen | 0/1 |
 | 12. Edit template for ToDo platform |  |
-| 13. Start concept template for 'sources for devs' project |  |
+| 13. Start concept template for 'sources for devs' project | Yes |
 
-Result: 0/13
+Result: 8/13
 
 Total:
 - Certificates - 1
