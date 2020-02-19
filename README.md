@@ -962,9 +962,9 @@ Total:
 | 3. Watch 1 Django video | 0/1 |
 | 4. Read 10 pages | 0/10 |
 | 5. Learn 1 new English word | 0/1 |
-| 6. Watch 1 science video | 0/1 |
+| 6. Watch 1 science video | 1/1 |
 | 7. Legs training |  |
-| 8. Write 3 posts for Freelance | 0/3 |
+| 8. Write 3 posts for Freelance | 1/3 |
 | 9. Write 1 article for a website | 0/1 |
 | 10. Write 1 short article for Yandex.zen | 0/1 |
 | 11. Edit template for ToDo platform |  |
