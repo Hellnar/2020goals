@@ -958,10 +958,10 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 | 1. Code at least 1 hour | 0/1 |
-| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 2. Pass 10+ FreeCodeCamp lessons | 11/10 |
 | 3. Watch 1 Django video | 0/1 |
 | 4. Read 10 pages | 0/10 |
-| 5. Learn 1 new English word | 0/1 |
+| 5. Learn 1 new English word | 1/1 |
 | 6. Watch 1 science video | 1/1 |
 | 7. Legs training |  |
 | 8. Write 3 posts for Freelance | 1/3 |
