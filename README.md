@@ -925,12 +925,12 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 | 1. Code at least 1 hour | 1/1 |
-| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
-| 3. Watch 1 Django video | 0/1 |
-| 4. Read 10 pages | 0/10 |
+| 2. Pass 10+ FreeCodeCamp lessons | 10/10 |
+| 3. Watch 1 Django video | 1/1 |
+| 4. Read 10 pages | 10/10 |
 | 5. Learn 1 new English word | 1/1 |
 | 6. Made visualization for each learned Eng word | Yes |
-| 7. Watch 1 science video | 1/1 |
+| 7. Watch 1 science video | 2/1 |
 | 8. Biceps training with dumbbells |  |
 | 9. Write 3 posts for Freelance | 0/3 |
 | 10. Write 1 article for a website | 0/1 |
@@ -938,17 +938,17 @@ Total:
 | 12. Edit template for ToDo platform |  |
 | 13. Start concept template for 'sources for devs' project |  |
 
-Result: 0/12
+Result: 0/13
 
 Total:
 - Certificates - 1
-- Coding - 30 hours
-- Science related videos - 52
-- Read pages - 189
-- New Eng words - 54
+- Coding - 31 hours
+- Science related videos - 54
+- Read pages - 199
+- New Eng words - 55
 - Khan Academy Lessons - 5
-- FreeCodeCamp lessons - 89
+- FreeCodeCamp lessons - 99
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
-- Django videos - 2
+- Django videos - 3
 - Push ups - 6 sets 100 reps 
