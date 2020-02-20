@@ -996,7 +996,7 @@ Total:
 | 5. Learn 1 new English word | 0/1 |
 | 6. Watch 1 science video | 0/1 |
 | 7. Push-ups training |  |
-| 8. Write 3 posts for Freelance | 0/2 |
+| 8. Write 2 posts for Freelance | 0/2 |
 | 9. Write 1 article for a website | 0/1 |
 | 10. Write 1 short article for Yandex.zen | 0/1 |
 | 11. Edit template for ToDo platform |  |
