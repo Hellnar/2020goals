@@ -984,3 +984,35 @@ Total:
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 4
 - Push ups - 6 sets 100 reps 
+
+# Day 42 - 20.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 1 hour | 0/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 3. Watch 1 Django video | 0/1 |
+| 4. Read 10 pages | 0/10 |
+| 5. Learn 1 new English word | 0/1 |
+| 6. Watch 1 science video | 0/1 |
+| 7. Push-ups training |  |
+| 8. Write 3 posts for Freelance | 0/2 |
+| 9. Write 1 article for a website | 0/1 |
+| 10. Write 1 short article for Yandex.zen | 0/1 |
+| 11. Edit template for ToDo platform |  |
+| 12. Start concept template for 'sources for devs' project |  |
+
+Result: 0/12
+
+Total:
+- Certificates - 1
+- Coding - 32 hours
+- Science related videos - 56
+- Read pages - 199
+- New Eng words - 56
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 110
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 4
+- Push ups - 6 sets 100 reps 
