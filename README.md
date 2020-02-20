@@ -957,9 +957,9 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-| 1. Code at least 1 hour | 0/1 |
+| 1. Code at least 1 hour | 1/1 |
 | 2. Pass 10+ FreeCodeCamp lessons | 11/10 |
-| 3. Watch 1 Django video | 0/1 |
+| 3. Watch 1 Django video | 1/1 |
 | 4. Read 10 pages | 0/10 |
 | 5. Learn 1 new English word | 1/1 |
 | 6. Watch 1 science video | 1/1 |
@@ -970,17 +970,17 @@ Total:
 | 11. Edit template for ToDo platform |  |
 | 12. Start concept template for 'sources for devs' project |  |
 
-Result: 0/12
+Result: 5/12
 
 Total:
 - Certificates - 1
-- Coding - 31 hours
-- Science related videos - 54
+- Coding - 32 hours
+- Science related videos - 56
 - Read pages - 199
-- New Eng words - 55
+- New Eng words - 56
 - Khan Academy Lessons - 5
-- FreeCodeCamp lessons - 99
+- FreeCodeCamp lessons - 110
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
-- Django videos - 3
+- Django videos - 4
 - Push ups - 6 sets 100 reps 
