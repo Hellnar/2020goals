@@ -1111,13 +1111,13 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-| 1. Code at least 1 hour | 0/1 |
+| 1. Code at least 1 hour | 2/1 |
 | 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
 | 3. Watch 1 Django video | 0/1 |
-| 4. Read 10 pages | 0/10 |
+| 4. Read 10 pages | 19/10 |
 | 5. Learn 1 new English word | 0/1 |
-| 6. Watch 1 science video | 0/1 |
-| 7. Write 2 posts for Freelance | 0/2 |
+| 6. Watch 1 science video | 1/1 |
+| 7. Write 2 posts for Freelance | 1/2 |
 | 8. Write 1 article for a website | 0/1 |
 | 9. Edit template for ToDo platform | |
 | 10. Start concept template for 'sources for devs' project |  |
