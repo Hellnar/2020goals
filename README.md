@@ -1122,13 +1122,13 @@ Total:
 | 9. Edit template for ToDo platform | |
 | 10. Start concept template for 'sources for devs' project |  |
 
-Result: 0/10
+Result: 3/10
 
 Total:
 - Certificates - 1
-- Coding - 33 hours
-- Science related videos - 59
-- Read pages - 203
+- Coding - 35 hours
+- Science related videos - 60
+- Read pages - 222
 - New Eng words - 57
 - Khan Academy Lessons - 5
 - FreeCodeCamp lessons - 116
