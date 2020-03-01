@@ -1199,26 +1199,113 @@ Total:
 | Goal  | Status  |
 | :------------ | :------------ |
 | 1. Code at least 1 hour | 0/1 |
-| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 2. Pass 10+ FreeCodeCamp lessons | 3/10 |
 | 3. Watch 1 Django video | 0/1 |
 | 4. Read 10 pages | 0/10 |
 | 5. Learn 1 new English word | 0/1 |
-| 6. Watch 1 science video | 0/1 |
-| 7. Write 2 posts for Freelance | 0/2 |
-| 8. Help at least 3 people on Twitter | 0/3 |
+| 6. Watch 1 science video | 1/1 |
+| 7. Write 2 posts for Freelance | 1/2 |
+| 8. Help at least 3 people on Twitter | 3/3 |
 
 
-Result: 0/8
+Result: 3/8
 
 Total:
 - Certificates - 1
-- Coding - 35 hours
-- Science related videos - 61
-- Read pages - 222
-- New Eng words - 58
+- Coding - 36 hours
+- Science related videos - 63
+- Read pages - 232
+- New Eng words - 59
 - Khan Academy Lessons - 5
-- FreeCodeCamp lessons - 120
+- FreeCodeCamp lessons - 123
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 4
 - Push ups - 6 sets 100 reps 
+
+# Day 50 - 28.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 1 hour | 0/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 4/10 |
+| 3. Watch 1 Django video | 0/1 |
+| 4. Read 10 pages | 23/10 |
+| 5. Learn 1 new English word | 0/1 |
+| 6. Watch 1 science video | 1/1 |
+| 7. Write 2 posts for Freelance | 1/2 |
+| 8. Help at least 3 people on Twitter | 1/3 |
+
+
+Result: 2/8
+
+Total:
+- Certificates - 1
+- Coding - 36 hours
+- Science related videos - 64
+- Read pages - 255
+- New Eng words - 59
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 127
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 4
+- Push ups - 6 sets 100 reps 
+
+# Day 51 - 29.02.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 1 hour | 0/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 3. Watch 1 Django video | 0/1 |
+| 4. Read 10 pages | 26/10 |
+| 5. Learn 1 new English word | 0/1 |
+| 6. Watch 1 science video | 1/1 |
+| 7. Write 2 posts for Freelance | 1/2 |
+| 8. Help at least 3 people on Twitter | 0/3 |
+
+
+Result: 2/8
+
+Total:
+- Certificates - 1
+- Coding - 36 hours
+- Science related videos - 65
+- Read pages - 281
+- New Eng words - 59
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 127
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 4
+- Push ups - 6 sets 100 reps
+
+# Day 52 - 01.03.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 1 hour | 0/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 3. Watch 1 Django video | 0/1 |
+| 4. Read 10 pages | 20/10 |
+| 5. Learn 1 new English word | 0/1 |
+| 6. Watch 1 science video | 1/1 |
+| 7. Write 2 posts for Freelance | 0/2 |
+| 8. Help at least 3 people on Twitter | 0/3 |
+
+
+Result: 2/8
+
+Total:
+- Certificates - 1
+- Coding - 36 hours
+- Science related videos - 65
+- Read pages - 281
+- New Eng words - 59
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 127
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 4
+- Push ups - 6 sets 100 reps
