@@ -1288,7 +1288,7 @@ Total:
 | 1. Code at least 1 hour | 0/1 |
 | 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
 | 3. Watch 1 Django video | 0/1 |
-| 4. Read 10 pages | 20/10 |
+| 4. Read 10 pages | 10/10 |
 | 5. Learn 1 new English word | 0/1 |
 | 6. Watch 1 science video | 1/1 |
 | 7. Write 2 posts for Freelance | 0/2 |
@@ -1300,8 +1300,8 @@ Result: 2/8
 Total:
 - Certificates - 1
 - Coding - 36 hours
-- Science related videos - 65
-- Read pages - 281
+- Science related videos - 66
+- Read pages - 291
 - New Eng words - 59
 - Khan Academy Lessons - 5
 - FreeCodeCamp lessons - 127
