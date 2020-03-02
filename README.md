@@ -1314,17 +1314,17 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-| 1. Code at least 1 hour | 0/1 |
+| 1. Code at least 1 hour | 1/1 |
 | 2. Pass 10+ FreeCodeCamp lessons | 14/10 |
 | 3. Read 10+ Django book pages | 0/10 |
-| 4. Read 10 pages | 0/10 |
+| 4. Read 10 pages | 10/10 |
 | 5. Learn 1 new English word | 0/1 |
 | 6. Watch 1 science video | 1/1 |
 | 7. Write 2 posts for Freelance | 0/2 |
 | 8. Help at least 3 people on Twitter | 0/3 |
 
 
-Result: 2/8
+Result: 4/8
 
 Total:
 - Certificates - 1
