@@ -1316,7 +1316,7 @@ Total:
 | :------------ | :------------ |
 | 1. Code at least 1 hour | 0/1 |
 | 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
-| 3. Watch 1 Django video | 0/1 |
+| 3. Read 10+ Django book pages | 0/10 |
 | 4. Read 10 pages | 0/10 |
 | 5. Learn 1 new English word | 0/1 |
 | 6. Watch 1 science video | 0/1 |
