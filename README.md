@@ -1318,23 +1318,53 @@ Total:
 | 2. Pass 10+ FreeCodeCamp lessons | 14/10 |
 | 3. Read 10+ Django book pages | 0/10 |
 | 4. Read 10 pages | 10/10 |
-| 5. Learn 1 new English word | 0/1 |
+| 5. Learn 1 new English word | 1/1 |
 | 6. Watch 1 science video | 1/1 |
 | 7. Write 2 posts for Freelance | 0/2 |
 | 8. Help at least 3 people on Twitter | 0/3 |
+| 8. Push-ups training | Yes |
 
 
-Result: 4/8
+
+Result: 6/9
 
 Total:
 - Certificates - 1
-- Coding - 36 hours
-- Science related videos - 66
-- Read pages - 291
-- New Eng words - 59
+- Coding - 37 hours
+- Science related videos - 67
+- Read pages - 301
+- New Eng words - 60
 - Khan Academy Lessons - 5
-- FreeCodeCamp lessons - 127
+- FreeCodeCamp lessons - 141
 - FreeCodeCamp projects - 5
 - Hackerrank/LeetCode tasks - 1
 - Django videos - 4
-- Push ups - 6 sets 100 reps
+- Push ups - 6 sets 110 reps
+
+# Day 54 - 03.03.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 1 hour | 0/1 |
+| 2. Pass 10+ FreeCodeCamp lessons | 0/10 |
+| 3. Read 10+ Django book pages | 0/10 |
+| 4. Read 10 pages | 0/10 |
+| 5. Learn 1 new English word | 0/1 |
+| 6. Watch 1 science video | 0/1 |
+| 7. Write 2 posts for Freelance | 0/2 |
+| 8. Help at least 3 people on Twitter | 0/3 |
+
+Result: 0/8
+
+Total:
+- Certificates - 1
+- Coding - 37 hours
+- Science related videos - 67
+- Read pages - 301
+- New Eng words - 60
+- Khan Academy Lessons - 5
+- FreeCodeCamp lessons - 141
+- FreeCodeCamp projects - 5
+- Hackerrank/LeetCode tasks - 1
+- Django videos - 4
+- Push ups - 6 sets 110 reps
