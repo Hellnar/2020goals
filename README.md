@@ -1352,9 +1352,9 @@ Total:
 | 5. Learn 1 new English word | 0/1 |
 | 6. Watch 1 science video | 1/1 |
 | 7. Write 2 posts for Freelance | 1/2 |
-| 8. Help at least 3 people on Twitter | 0/3 |
+| 8. Help at least 3 people on Twitter | 3/3 |
 
-Result: 2/8
+Result: 3/8
 
 Total:
 - Certificates - 1
