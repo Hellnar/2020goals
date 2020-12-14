@@ -1538,3 +1538,15 @@ Total:
 - Push ups - 6 sets 110 reps
 - People helped with hiring - 11
 
+--------------------------------------------------------------------
+
+# 14.12.2020
+
+| Goal  | Status  |
+| :------------ | :------------ |
+| 1. Code at least 3 hours | 0/3 |
+| 2. Pass 5+ FreeCodeCamp lessons | 0/5 |
+| 3. Watch MongoDB Tutorial playlist | 0/16 |
+| 4. Read 10 pages | 0/10 |
+| 5. Launch Jobs Page | 0/1 |
+| 6. Update Portfolio Page | 0/1 |
